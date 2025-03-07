@@ -1,5 +1,10 @@
 #!/bin/bash
+#Its for android termux
+#Crow C++ installation script for Android Termux
+#Author: salman ahmad
+#Version: 1.0
 
+# Set the installation directory
 RED='\033[1;31m'
 GREEN='\033[1;32m'
 YELLOW='\033[1;33m'
